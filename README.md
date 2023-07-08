@@ -9,7 +9,7 @@ In 2012, I get back to an IT company, as part of the Support team, learned a lot
 <br>
 *   🌍  I'm based in Toledo, PR, Brazil
 *   ✉️  You can contact me at [karloskliemann@gmail.com](mailto:karloskliemann@gmail.com)
-*   🧠  I'm learning Sass and JavaScript
+*   🧠  I'm studying JavaScript, Angular and Python
 
 ### Hard Skills
 <p align="left">
