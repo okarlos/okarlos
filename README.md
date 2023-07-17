@@ -22,10 +22,15 @@ In 2022, I started investing more time on learning code, starting with HTML, CSS
 </p>
 
 ### Portfolio
-* [Rocketseat Portfolio Challenge](https://github.com/okarlos/rocketseat-desafio-porfolio) | SCSS+JavaScript
+* [Rocketseat Portfolio Challenge](https://github.com/okarlos/rocketseat-desafio-porfolio) | CSS+SCSS
+* [AluraStore](https://github.com/okarlos/alura-store) | CSS
+* [LinkTree](https://github.com/okarlos/linktree) | CSS
 * [Jodo do número secreto](https://github.com/okarlos/curso-js-n-secreto) | JavaScript
+* [AluraBooks](https://github.com/okarlos/AluraBooks) | JavaScript
+* [Aparecida Nutrição](https://github.com/okarlos/aparecida-nutricao) | JavaScript
 * [Sincronizador de backup](https://github.com/okarlos/sync-backup-por-cliente) | Batch
 * [Filtro de palavras chave](https://github.com/okarlos/filtra_backup) | Python
+* [Jogos - Adivinhação e Forca](https://github.com/okarlos/adivinha-py) | Python
 
 ### Socials
 <p align="left">
