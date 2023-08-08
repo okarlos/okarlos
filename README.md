@@ -31,6 +31,7 @@ In 2022, I started investing more time on learning code, starting with HTML, CSS
 * [Sincronizador de backup](https://github.com/okarlos/sync-backup-por-cliente) | Batch
 * [Filtro de palavras chave](https://github.com/okarlos/filtra_backup) | Python
 * [Jogos - Adivinhação e Forca](https://github.com/okarlos/adivinha-py) | Python
+* [Validador de e-mail](https://github.com/okarlos/valida-email-mailgun) | Python
 
 ### Socials
 <p align="left">
