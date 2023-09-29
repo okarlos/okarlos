@@ -1,13 +1,15 @@
 Hi 👋 My name is Karlos Kliemann
 ================================
 
-Web Developer
----------------------
+In 2004, I earned my IT degree, where I acquired the foundational knowledge for a career in software development. At that time, I wasn't entirely certain about my career path, leading me to temporarily step away from the IT field.  
 
-I had my IT graduation in 2004, where I learned the basics for a developer career, at the time it wasn't clear to me what I wanted to do, so I ended up stepping aside of the IT world.<br>
-In 2012, I get back to an IT company, as part of the Support team, learned a lot, been living in the tech atmosphere for 10 years now. <br>
-In 2022, I started investing more time on learning code, starting with HTML, CSS and Javascript.<br>
-**In 2023, started searching for problems to solve in my current job, investing more time in learning pratical JavaScript and Python.<br>**
+Fast forward to 2012, I re-entered the IT industry, joining an esteemed company as a member of the Support team. Over the course of a decade, I immersed myself in the ever-evolving world of technology.  
+
+By 2015, I took on the role of team leader, spearheading the development of a robust support infrastructure that now encompasses over 50 dedicated individuals. My unwavering commitment has centered around nurturing the growth and potential of my team.  
+
+In 2022, I embarked on a journey to expand my technical skills, beginning with a deep dive into HTML, CSS, and JavaScript.  
+
+As of 2023, I've actively sought out opportunities to apply my expanding knowledge in my current role, dedicating considerable time to mastering practical JavaScript and Python, while also searching for real-world challenges to solve.  
 *   🌍  I'm based in Toledo, PR, Brazil!
 *   ✉️  You can contact me at [karloskliemann@gmail.com](mailto:karloskliemann@gmail.com).
 *   🧠  I'm studying, mainly, JavaScript, Python and SQL.
