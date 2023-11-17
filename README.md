@@ -1,18 +1,16 @@
 Hi 👋 My name is Karlos Kliemann
 ================================
 
-In 2004, I earned my IT degree, where I acquired the foundational knowledge for a career in software development. At that time, I wasn't entirely certain about my career path, leading me to temporarily step away from the IT field.  
 
-Fast forward to 2012, I re-entered the IT industry, joining an esteemed company as a member of the Support team. Over the course of a decade, I immersed myself in the ever-evolving world of technology.  
+👋 Hi, I'm Karlos Kliemann, an IT professional based in Toledo, PR, Brazil!
+🎓 In 2004, I earned my IT degree, sparking my journey into software development. Unsure of my path, I briefly stepped away from IT.
+⚙️ In 2012, I re-entered the industry, contributing to a support team. Over a decade, I evolved into a team leader, overseeing a robust support infrastructure with 50+ dedicated individuals.
+🚀 In 2022, I dove into HTML, CSS, and JavaScript, expanding my technical skills. As of 2023, I actively apply my knowledge, mastering JavaScript, Python, and SQL, seeking real-world challenges.
+💼 October 2023: Transitioned from a senior role to join Giro.Tech, a Curitiba-based startup, as a Project Manager. Committed to enhancing processes and contributing to the company's growth.
 
-By 2015, I took on the role of team leader, spearheading the development of a robust support infrastructure that now encompasses over 50 dedicated individuals. My unwavering commitment has centered around nurturing the growth and potential of my team.  
+🧠 Currently focused on mastering Project Management skills!
 
-In 2022, I embarked on a journey to expand my technical skills, beginning with a deep dive into HTML, CSS, and JavaScript.  
-
-As of 2023, I've actively sought out opportunities to apply my expanding knowledge in my current role, dedicating considerable time to mastering practical JavaScript and Python, while also searching for real-world challenges to solve.  
-*   🌍  I'm based in Toledo, PR, Brazil!
-*   ✉️  You can contact me at [karloskliemann@gmail.com](mailto:karloskliemann@gmail.com).
-*   🧠  I'm studying, mainly, JavaScript, Python and SQL.
+🌐 Let's connect! [Email](mailto:karloskliemann@gmail.com)
 
 ### Hard Skills
 <p align="left">
