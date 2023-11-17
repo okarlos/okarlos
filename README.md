@@ -1,17 +1,14 @@
-Hi 👋 My name is Karlos Kliemann
-================================
-
-
 👋 Hi, I'm Karlos Kliemann, an IT professional based in Toledo, PR, Brazil!
-🎓 In 2004, I earned my IT degree, sparking my journey into software development. Unsure of my path, I briefly stepped away from IT.
-⚙️ In 2012, I re-entered the industry, contributing to a support team. Over a decade, I evolved into a team leader, overseeing a robust support infrastructure with 50+ dedicated individuals.
-🚀 In 2022, I dove into HTML, CSS, and JavaScript, expanding my technical skills. As of 2023, I actively apply my knowledge, mastering JavaScript, Python, and SQL, seeking real-world challenges.
-💼 October 2023: Transitioned from a senior role to join Giro.Tech, a Curitiba-based startup, as a Project Manager. Committed to enhancing processes and contributing to the company's growth.
 
-🧠 Currently focused on mastering Project Management skills!
-
-🌐 Let's connect! [Email](mailto:karloskliemann@gmail.com)
-
+🎓 In 2004, I earned my IT degree, sparking my journey into software development. Unsure of my path, I briefly stepped away from IT.  
+⚙️ In 2012, I re-entered the industry, contributing to a support team. Over a decade, I evolved into a team leader, overseeing a robust support infrastructure with 50+ dedicated individuals.  
+🚀 In 2022, I dove into HTML, CSS, and JavaScript, expanding my technical skills. As of 2023, I actively apply my knowledge, mastering JavaScript, Python, and SQL, seeking real-world challenges.  
+💼 October 2023: Transitioned from a senior role to join Giro.Tech, a Curitiba-based startup, as a Project Manager. Committed to enhancing processes and contributing to the company's growth.  
+  
+🧠 Currently focused on mastering Project Management skills!  
+  
+🌐 Let's connect! [Email](mailto:karloskliemann@gmail.com)  
+  
 ### Hard Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
